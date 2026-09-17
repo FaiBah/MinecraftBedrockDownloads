@@ -1,0 +1,49 @@
+name: Update Minecraft Downloads
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+      timezone: "Asia/Kuala_Lumpur"
+    - cron: "0 8 * * 4"
+      timezone: "Asia/Kuala_Lumpur"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-minecraft-downloads
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Prepare directories
+        run: mkdir -p data
+
+      - name: Update files
+        run: |
+          python scraper/mcpelife.py > data/mcpelife.json
+          python scraper/mcpedl.py > data/mcpedl.json
+          python scraper/generate_downloads.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@github.com"
+          git add data/ DOWNLOAD-*.md
+          git diff --cached --quiet || git commit -m "Update Minecraft downloads"
+          git push
