@@ -1,0 +1,62 @@
+{
+  "source": "mcpedl",
+  "release": {
+    "version": "26.51",
+    "files": [
+      {
+        "name": "Xbox+servers, no music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-51.apk",
+        "size": 369924466,
+        "status": "ok",
+        "http_status": 206
+      },
+      {
+        "name": "Xbox+servers, +music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-51-music.apk",
+        "size": 702720688,
+        "status": "ok",
+        "http_status": 200
+      },
+      {
+        "name": "armeabi-v7a. Xbox+servers, no music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-51-armeabi-v7a.apk",
+        "size": 369924466,
+        "status": "ok",
+        "http_status": 206
+      },
+      {
+        "name": "armeabi-v7a. Xbox+servers, +music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-51-armeabi-v7a-music.apk",
+        "size": 702720688,
+        "status": "ok",
+        "http_status": 200
+      }
+    ]
+  },
+  "beta": {
+    "version": "26.60.24",
+    "files": [
+      {
+        "name": "Xbox+servers, no music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-60-24.apk",
+        "size": 373582126,
+        "status": "ok",
+        "http_status": 206
+      },
+      {
+        "name": "Xbox+servers, +music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-60-24-music.apk",
+        "size": 711722481,
+        "status": "ok",
+        "http_status": 200
+      },
+      {
+        "name": "armv7a. Xbox+servers, +music",
+        "url": "https://mcpedl.org/uploads_files/16-09-2026/minecraft-26-60-24-armv7a-music.apk",
+        "size": 701736447,
+        "status": "ok",
+        "http_status": 200
+      }
+    ]
+  }
+}
