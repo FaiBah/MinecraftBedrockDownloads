@@ -15,7 +15,7 @@ Latest Minecraft Release and Beta download links.
 | Clone for Armeabi-v7a | 1038680840 bytes (990.56 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a-clone.apk) |
 | Clone for Armeabi-v7a - Without music | 693806822 bytes (661.67 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a-clone-compressed.apk) |
 | x86_64 | 1073189512 bytes (1023.47 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-x86_64.apk) |
-| MOD Menu | 699500444 bytes (667.10 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/Minecraft-1.26.50-for-iOS-mcpelife.ipa) |
+| MOD Menu | 1049745597 bytes (1001.12 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft_mod_menu-1.26.51.1-mcpelife.apk) |
 | Original (IPA) for iOS/iPhone/iPad | 699500444 bytes (667.10 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-51-1/Minecraft-1.26.50-for-iOS-mcpelife.ipa) |
 
 ## 🔵 Beta — 26.60.24
