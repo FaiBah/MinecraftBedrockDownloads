@@ -16,11 +16,9 @@ Latest Minecraft Release and Beta download links.
 | File | Size | Download |
 |:---:|:---:|:---:|
 | Xbox+servers, no music | 382360914 bytes (364.65 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28.apk) |
-| Xbox+servers, +music | - | ❌ HTTP Error 502: Bad Gateway |
+| Xbox+servers, +music | 715145272 bytes (682.02 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-music.apk) |
 | armv7a. Xbox+servers, no music | 382360914 bytes (364.65 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a.apk) |
-| armv7a. Xbox+servers, +music | - | ❌ HTTP Error 502: Bad Gateway |
-| Xbox+servers, +music | - | ❌ HTTP Error 502: Bad Gateway |
-| armv7a. Xbox+servers, +music | - | ❌ HTTP Error 502: Bad Gateway |
+| armv7a. Xbox+servers, +music | 715145272 bytes (682.02 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a-music.apk) |
 
 ## 🌐 Source
 

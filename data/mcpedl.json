@@ -29,7 +29,7 @@
         "url": "https://file.mcpedl.org/uploads_files/16-09-2026/minecraft-26-51-armeabi-v7a-music.apk",
         "size": 702720688,
         "status": "ok",
-        "http_status": 206
+        "http_status": 200
       }
     ]
   },
@@ -46,10 +46,9 @@
       {
         "name": "Xbox+servers, +music",
         "url": "https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-music.apk",
-        "size": null,
-        "status": "failed",
-        "error": "HTTP Error 502: Bad Gateway",
-        "http_status": null
+        "size": 715145272,
+        "status": "ok",
+        "http_status": 200
       },
       {
         "name": "armv7a. Xbox+servers, no music",
@@ -61,26 +60,9 @@
       {
         "name": "armv7a. Xbox+servers, +music",
         "url": "https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a-music.apk",
-        "size": null,
-        "status": "failed",
-        "error": "HTTP Error 502: Bad Gateway",
-        "http_status": null
-      },
-      {
-        "name": "Xbox+servers, +music",
-        "url": "https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-music.apk",
-        "size": null,
-        "status": "failed",
-        "error": "HTTP Error 502: Bad Gateway",
-        "http_status": null
-      },
-      {
-        "name": "armv7a. Xbox+servers, +music",
-        "url": "https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a-music.apk",
-        "size": null,
-        "status": "failed",
-        "error": "HTTP Error 502: Bad Gateway",
-        "http_status": null
+        "size": 715145272,
+        "status": "ok",
+        "http_status": 200
       }
     ]
   }
