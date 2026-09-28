@@ -1,82 +1,75 @@
 {
   "source": "mcpelife",
   "release": {
-    "version": "26.51",
+    "version": "26.52",
     "files": [
       {
         "name": "Arm64-v8a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-arm64-v8a.apk",
-        "size": 1048142662,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-arm64-v8a.apk",
+        "size": 1048027974,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Arm64-v8a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-arm64-v8a-compressed.apk",
-        "size": 703272740,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-arm64-v8a-compressed.apk",
+        "size": 703153956,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Arm64-v8a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-arm64-v8a-clone.apk",
-        "size": 1048134470,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-arm64-v8a-clone.apk",
+        "size": 1048019782,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Arm64-v8 - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-arm64-v8a-clone-compressed.apk",
-        "size": 703264548,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-arm64-v8a-clone-compressed.apk",
+        "size": 703149860,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Armeabi-v7a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a.apk",
-        "size": 1038684936,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-armeabi-v7a.apk",
+        "size": 1038562056,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Armeabi-v7a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a-compressed.apk",
-        "size": 693815014,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-armeabi-v7a-compressed.apk",
+        "size": 693692134,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Armeabi-v7a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a-clone.apk",
-        "size": 1038680840,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-armeabi-v7a-clone.apk",
+        "size": 1038553864,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Armeabi-v7a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-armeabi-v7a-clone-compressed.apk",
-        "size": 693806822,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-armeabi-v7a-clone-compressed.apk",
+        "size": 693683942,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "x86_64",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft-1.26.51.1-x86_64.apk",
-        "size": 1073189512,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-x86_64.apk",
+        "size": 1073488520,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "MOD Menu",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/minecraft_mod_menu-1.26.51.1-mcpelife.apk",
-        "size": 1049745597,
-        "status": "ok",
-        "http_status": 206
-      },
-      {
-        "name": "Original (IPA) for iOS/iPhone/iPad",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-51-1/Minecraft-1.26.50-for-iOS-mcpelife.ipa",
-        "size": 699500444,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-mod_menu_1.26.52.3-mcpelife.apk",
+        "size": 1049753789,
         "status": "ok",
         "http_status": 206
       }
