@@ -17,20 +17,20 @@ Latest Minecraft Release and Beta download links.
 | x86_64 | 1073488520 bytes (1023.76 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-1.26.52.3-x86_64.apk) |
 | MOD Menu | 1049753789 bytes (1001.12 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-mod_menu_1.26.52.3-mcpelife.apk) |
 
-## 🔵 Beta — 26.60.28
+## 🔵 Beta — 26.60.29
 
 | File | Size | Download |
 |:---:|:---:|:---:|
-| Arm64-v8a | 1065715979 bytes (1016.35 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-arm64-v8a.apk) |
-| Arm64-v8a - Without music | 720846057 bytes (687.45 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-arm64-v8a-compressed.apk) |
-| Clone for Arm64-v8a | 1065707787 bytes (1016.34 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-arm64-v8a-clone.apk) |
-| Clone for Arm64-v8 - Without music | 720837865 bytes (687.44 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-arm64-v8a-clone-compressed.apk) |
-| Armeabi-v7a | 1055332557 bytes (1006.44 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-armeabi-v7a.apk) |
-| Armeabi-v7a - Without music | 710462635 bytes (677.55 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-armeabi-v7a-compressed.apk) |
-| Clone for Armeabi-v7a | 1055328461 bytes (1006.44 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-armeabi-v7a-clone.apk) |
-| Clone for Armeabi-v7a - Without music | 710458539 bytes (677.55 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-armeabi-v7a-clone-compressed.apk) |
-| x86_64 | 1093310541 bytes (1.02 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-1.26.60.28-x86_64.apk) |
-| MOD Menu | 1067589189 bytes (1018.13 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-28/minecraft-mod-menu-1.26.60.28-mcpelife.apk) |
+| Arm64-v8a | 1071712332 bytes (1022.06 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-arm64-v8a.apk) |
+| Arm64-v8a - Without music | 726842410 bytes (693.17 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-arm64-v8a-compressed.apk) |
+| Clone for Arm64-v8a | 1071708236 bytes (1022.06 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-arm64-v8a-clone.apk) |
+| Clone for Arm64-v8 - Without music | 726838314 bytes (693.17 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-arm64-v8a-clone-compressed.apk) |
+| Armeabi-v7a | 1061607438 bytes (1012.43 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-armeabi-v7a.apk) |
+| Armeabi-v7a - Without music | 716737516 bytes (683.53 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-armeabi-v7a-compressed.apk) |
+| Clone for Armeabi-v7a | 1061599246 bytes (1012.42 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-armeabi-v7a-clone.apk) |
+| Clone for Armeabi-v7a - Without music | 716729324 bytes (683.53 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-armeabi-v7a-clone-compressed.apk) |
+| x86_64 | 1099700110 bytes (1.02 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-1.26.60.29-x86_64.apk) |
+| MOD Menu | 1073782150 bytes (1.00 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-29/minecraft-mod-menu_1.26.60.29_mcpelife.apk) |
 
 ## 🌐 Source
 
