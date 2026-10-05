@@ -72,6 +72,13 @@
         "size": 1049753789,
         "status": "ok",
         "http_status": 206
+      },
+      {
+        "name": "Original (IPA) for iOS/iPhone/iPad",
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-52-3/Minecraft-1.26.52-for-iOS-mcpelife.ipa",
+        "size": 699501748,
+        "status": "ok",
+        "http_status": 206
       }
     ]
   },

@@ -11,14 +11,14 @@ Latest Minecraft Release and Beta download links.
 | armeabi-v7a. Xbox+servers, no music | 370026442 bytes (352.88 MB) | [Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v7a.apk) |
 | armeabi-v7a. Xbox+servers, +music | 702810800 bytes (670.25 MB) | [Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v7a-music.apk) |
 
-## 🔵 Beta — 26.60.28
+## 🔵 Beta — 26.60.29
 
 | File | Size | Download |
 |:---:|:---:|:---:|
-| Xbox+servers, no music | 382360914 bytes (364.65 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28.apk) |
-| Xbox+servers, +music | 715145272 bytes (682.02 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-music.apk) |
-| armv7a. Xbox+servers, no music | 382360914 bytes (364.65 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a.apk) |
-| armv7a. Xbox+servers, +music | 715145272 bytes (682.02 MB) | [Download](https://file.mcpedl.org/uploads_files/22-09-2026/minecraft-26-60-28-armeabi-v7a-music.apk) |
+| Xbox+servers, no music | 386354323 bytes (368.46 MB) | [Download](https://file.mcpedl.org/uploads_files/30-09-2026/minecraft-26-60-29.apk) |
+| Xbox+servers, +music | 719138681 bytes (685.82 MB) | [Download](https://file.mcpedl.org/uploads_files/30-09-2026/minecraft-26-60-29-music.apk) |
+| armv7a. Xbox+servers, no music | 386354323 bytes (368.46 MB) | [Download](https://file.mcpedl.org/uploads_files/30-09-2026/minecraft-26-60-29-armeabi-v7a.apk) |
+| armv7a. Xbox+servers, +music | 719138681 bytes (685.82 MB) | [Download](https://file.mcpedl.org/uploads_files/30-09-2026/minecraft-26-60-29-armeabi-v7a-music.apk) |
 
 ## 🌐 Source
 
