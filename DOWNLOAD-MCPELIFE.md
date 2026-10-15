@@ -18,20 +18,19 @@ Latest Minecraft Release and Beta download links.
 | MOD Menu | 1049753789 bytes (1001.12 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-52-3/minecraft-mod_menu_1.26.52.3-mcpelife.apk) |
 | Original (IPA) for iOS/iPhone/iPad | 699501748 bytes (667.10 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-52-3/Minecraft-1.26.52-for-iOS-mcpelife.ipa) |
 
-## 🔵 Beta — 26.60.30
+## 🔵 Beta — 26.70.20
 
 | File | Size | Download |
 |:---:|:---:|:---:|
-| Arm64-v8a | 1071016294 bytes (1021.40 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-arm64-v8a.apk) |
-| Arm64-v8a - Without music | 726146372 bytes (692.51 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-arm64-v8a-compressed.apk) |
-| Clone for Arm64-v8a | 1071012198 bytes (1021.40 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-arm64-v8a-clone.apk) |
-| Clone for Arm64-v8 - Without music | 726142276 bytes (692.50 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-arm64-v8a-clone-compressed.apk) |
-| Armeabi-v7a | 1060972840 bytes (1011.82 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-armeabi-v7a.apk) |
-| Armeabi-v7a - Without music | 716102918 bytes (682.93 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-armeabi-v7a-compressed.apk) |
-| Clone for Armeabi-v7a | 1060968744 bytes (1011.82 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-armeabi-v7a-clone.apk) |
-| Clone for Armeabi-v7a - Without music | 716094726 bytes (682.92 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-armeabi-v7a-clone-compressed.apk) |
-| x86_64 | 1099061416 bytes (1.02 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-1.26.60.30-x86_64.apk) |
-| MOD Menu | 1073270432 bytes (1023.55 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-30/minecraft-mod-menu-1.26.60.30-mcpelife.apk) |
+| Arm64-v8a | 1077647066 bytes (1.00 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a.apk) |
+| Arm64-v8a - Without music | 732777144 bytes (698.83 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-compressed.apk) |
+| Clone for Arm64-v8a | 1077638874 bytes (1.00 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone.apk) |
+| Clone for Arm64-v8 - Without music | 732768952 bytes (698.82 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone-compressed.apk) |
+| Armeabi-v7a | 1067112094 bytes (1017.68 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a.apk) |
+| Armeabi-v7a - Without music | - | ❌ [Errno 104] Connection reset by peer |
+| Clone for Armeabi-v7a | 1067103902 bytes (1017.67 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone.apk) |
+| Clone for Armeabi-v7a - Without music | 722233980 bytes (688.78 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone-compressed.apk) |
+| x86_64 | 1105921561 bytes (1.03 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-x86_64.apk) |
 
 ## 🌐 Source
 
