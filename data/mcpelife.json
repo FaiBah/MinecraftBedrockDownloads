@@ -122,11 +122,10 @@
       },
       {
         "name": "Armeabi-v7a - Without music",
-        "url": null,
-        "size": null,
-        "status": "failed",
-        "error": "[Errno 104] Connection reset by peer",
-        "http_status": null
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-compressed.apk",
+        "size": 722242172,
+        "status": "ok",
+        "http_status": 206
       },
       {
         "name": "Clone for Armeabi-v7a",

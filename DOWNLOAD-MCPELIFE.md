@@ -27,7 +27,7 @@ Latest Minecraft Release and Beta download links.
 | Clone for Arm64-v8a | 1077638874 bytes (1.00 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone.apk) |
 | Clone for Arm64-v8 - Without music | 732768952 bytes (698.82 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone-compressed.apk) |
 | Armeabi-v7a | 1067112094 bytes (1017.68 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a.apk) |
-| Armeabi-v7a - Without music | - | ❌ [Errno 104] Connection reset by peer |
+| Armeabi-v7a - Without music | 722242172 bytes (688.78 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-compressed.apk) |
 | Clone for Armeabi-v7a | 1067103902 bytes (1017.67 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone.apk) |
 | Clone for Armeabi-v7a - Without music | 722233980 bytes (688.78 MB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone-compressed.apk) |
 | x86_64 | 1105921561 bytes (1.03 GB) | [Download](https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-x86_64.apk) |
