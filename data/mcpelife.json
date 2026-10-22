@@ -83,68 +83,68 @@
     ]
   },
   "beta": {
-    "version": "26.70.20",
+    "version": "26.70.21",
     "files": [
       {
         "name": "Arm64-v8a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a.apk",
-        "size": 1077647066,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-arm64-v8a.apk",
+        "size": 1173498139,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Arm64-v8a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-compressed.apk",
-        "size": 732777144,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-arm64-v8a-compressed.apk",
+        "size": 828628217,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Arm64-v8a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone.apk",
-        "size": 1077638874,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-arm64-v8a-clone.apk",
+        "size": 1173489947,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Arm64-v8 - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-arm64-v8a-clone-compressed.apk",
-        "size": 732768952,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-arm64-v8a-clone-compressed.apk",
+        "size": 828620025,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Armeabi-v7a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a.apk",
-        "size": 1067112094,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-armeabi-v7a.apk",
+        "size": 1162639583,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Armeabi-v7a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-compressed.apk",
-        "size": 722242172,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-armeabi-v7a-compressed.apk",
+        "size": 817769661,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Armeabi-v7a",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone.apk",
-        "size": 1067103902,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-armeabi-v7a-clone.apk",
+        "size": 1162635487,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "Clone for Armeabi-v7a - Without music",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-armeabi-v7a-clone-compressed.apk",
-        "size": 722233980,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-armeabi-v7a-clone-compressed.apk",
+        "size": 817765565,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "x86_64",
-        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-20/minecraft-1.26.70.20-x86_64.apk",
-        "size": 1105921561,
+        "url": "https://dl.mcpelife.com/minecraft-pe/1-26-70-21/minecraft-1.26.70.21-x86_64.apk",
+        "size": 1202677850,
         "status": "ok",
         "http_status": 206
       }

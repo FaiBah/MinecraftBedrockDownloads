@@ -15,7 +15,7 @@
         "url": "https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v8a-music.apk",
         "size": 702810800,
         "status": "ok",
-        "http_status": 206
+        "http_status": 200
       },
       {
         "name": "armeabi-v7a. Xbox+servers, no music",
@@ -29,38 +29,38 @@
         "url": "https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v7a-music.apk",
         "size": 702810800,
         "status": "ok",
-        "http_status": 206
+        "http_status": 200
       }
     ]
   },
   "beta": {
-    "version": "26.70.20",
+    "version": "26.70.21",
     "files": [
       {
         "name": "Xbox+servers, no music",
-        "url": "https://file.mcpedl.org/uploads_files/13-10-2026/minecraft-26-70-20.apk",
-        "size": 389614369,
+        "url": "https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21.apk",
+        "size": 823276635,
         "status": "ok",
-        "http_status": 206
+        "http_status": 200
       },
       {
         "name": "Xbox+servers, +music",
-        "url": "https://file.mcpedl.org/uploads_files/13-10-2026/minecraft-26-70-20-music.apk",
-        "size": 722398727,
+        "url": "https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-music.apk",
+        "size": 1168126077,
         "status": "ok",
         "http_status": 200
       },
       {
         "name": "armv7a. Xbox+servers, no music",
-        "url": "https://file.mcpedl.org/uploads_files/13-10-2026/minecraft-26-70-20-armeabi-v7a.apk",
-        "size": 389614369,
+        "url": "https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-armeabi-v7a.apk",
+        "size": 404254050,
         "status": "ok",
         "http_status": 206
       },
       {
         "name": "armv7a. Xbox+servers, +music",
-        "url": "https://file.mcpedl.org/uploads_files/13-10-2026/minecraft-26-70-20-armeabi-v7a-music.apk",
-        "size": 722398727,
+        "url": "https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-armeabi-v7a-music.apk",
+        "size": 737038408,
         "status": "ok",
         "http_status": 200
       }
