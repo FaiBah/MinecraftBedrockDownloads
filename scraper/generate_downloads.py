@@ -1,85 +1,92 @@
 import json
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent
 
-SOURCES={
-    "mcpelife":"https://mcpelife.com/download/",
-    "mcpedl":"https://mcpedl.org/downloading/"
+SOURCES = {
+    "mcpelife": "https://mcpelife.com/download/",
+    "mcpedl": "https://mcpedl.org/downloading/",
 }
 
-def readable(n):
-    if n is None:return "-"
-    n=float(n)
-    for u in ("B","KB","MB","GB","TB"):
-        if n<1024:return f"{n:.2f} {u}"
-        n/=1024
-    return f"{n:.2f} PB"
+SECTIONS = {
+    "release": "🟢 Release",
+    "beta": "🔵 Beta",
+}
 
-def size_text(n):
-    return f"{n} bytes ({readable(n)})" if n is not None else "-"
 
-def generate(source,outfile):
-    data=json.loads((ROOT/"data"/f"{source}.json").read_text(encoding="utf-8"))
+def size(n):
+    if n is None:
+        return "Unknown"
 
-    lines=[
+    value = float(n)
+    for unit in ("B", "KB", "MB", "GB", "TB"):
+        if value < 1024:
+            return f"{value:.2f} {unit} ({n:,} bytes)"
+        value /= 1024
+
+    return f"{value:.2f} PB ({n:,} bytes)"
+
+
+def generate(source):
+    data = json.loads(
+        (ROOT / "data" / f"{source}.json").read_text(encoding="utf-8")
+    )
+
+    lines = [
         "# 🎮 Minecraft Downloads",
         "",
-        "Latest Minecraft Release and Beta download links.",
-        ""
+        "> Latest **Minecraft Release & Beta** download links.",
+        "",
+        "---",
+        "",
     ]
 
-    for kind,title in [
-        ("release","🟢 Release"),
-        ("beta","🔵 Beta")
-    ]:
-        section=data.get(kind,{})
-        version=section.get("version")
+    for kind, title in SECTIONS.items():
+        section = data.get(kind, {})
+        files = section.get("files", [])
 
         lines += [
-            f"## {title} — {version or 'Not found'}",
+            f"## {title}",
             "",
-            "| File | Size | Download |",
-            "|:---:|:---:|:---:|"
+            f"### `{section.get('version') or 'Not found'}`",
+            "",
         ]
 
-        files=section.get("files",[])
-
         if not files:
-            lines += [
-                "| - | - | ❌ No files found. |",
-                ""
-            ]
-            continue
+            lines += ["> ⚠️ **No files found.**", ""]
+        else:
+            for file in files:
+                name = file.get("name", "Unknown")
+                url = file.get("url")
 
-        for f in files:
-            name=f.get("name","Unknown")
-            size=f.get("size")
-            url=f.get("url")
+                if file.get("status") == "ok" and url:
+                    lines += [
+                        f"> 📦 **{name}**  ",
+                        f"> **Size:** `{size(file.get('size'))}`  ",
+                        f"> [⬇️ Download]({url})",
+                        "",
+                    ]
+                else:
+                    lines += [
+                        f"> ⚠️ **{name}**  ",
+                        f"> **Status:** {file.get('error', 'Unknown error')}",
+                        "",
+                    ]
 
-            if f.get("status")=="ok" and url:
-                lines.append(
-                    f"| {name} | {size_text(size)} | [Download]({url}) |"
-                )
-            else:
-                error=f.get("error","Unknown error")
-                lines.append(
-                    f"| {name} | - | ❌ {error} |"
-                )
-
-        lines.append("")
+        lines += ["---", ""]
 
     lines += [
         "## 🌐 Source",
         "",
-        SOURCES[source],
-        ""
+        f"🔗 [{source.upper()}]({SOURCES[source]})",
+        "",
     ]
 
-    (ROOT/outfile).write_text(
+    (ROOT / f"DOWNLOAD-{source.upper()}.md").write_text(
         "\n".join(lines),
-        encoding="utf-8"
+        encoding="utf-8",
     )
 
-generate("mcpelife","DOWNLOAD-MCPELIFE.md")
-generate("mcpedl","DOWNLOAD-MCPEDL.md")
+
+for source in SOURCES:
+    generate(source)
