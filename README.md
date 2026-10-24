@@ -1,27 +1,33 @@
 # 🎮 Minecraft Bedrock Downloads
 
-Latest **Minecraft Bedrock Release** and **Beta** download links in JSON format.
+> 🟩 Latest **Minecraft Bedrock Release & Beta** download links.
 
-## 📦 JSON
+---
 
-### MCPELIFE
+## 📦 Downloads
 
-🔗 [Raw JSON](https://raw.githubusercontent.com/FaiBah/MinecraftBedrockDownloads/main/data/mcpelife.json)
+### 🟢 MCPELIFE
 
-### MCPEDL
+> 📄 **JSON Data**  
+> [View Raw JSON](https://raw.githubusercontent.com/FaiBah/MinecraftBedrockDownloads/main/data/mcpelife.json)
+>
+> ⬇️ **Download List**  
+> [View Downloads](DOWNLOAD-MCPELIFE.md)
 
-🔗 [Raw JSON](https://raw.githubusercontent.com/FaiBah/MinecraftBedrockDownloads/main/data/mcpedl.json)
+### 🔵 MCPEDL
 
-## 📋 Download List
+> 📄 **JSON Data**  
+> [View Raw JSON](https://raw.githubusercontent.com/FaiBah/MinecraftBedrockDownloads/main/data/mcpedl.json)
+>
+> ⬇️ **Download List**  
+> [View Downloads](DOWNLOAD-MCPEDL.md)
 
-Readable lists of all available downloads are automatically generated here:
-
-* 🔗 [DOWNLOAD-MCPELIFE.md](DOWNLOAD-MCPELIFE.md)
-* 🔗 [DOWNLOAD-MCPEDL.md](DOWNLOAD-MCPEDL.md)
+---
 
 ## 🌐 Sources
 
-Download information is collected from:
+> 🟢 **MCPELIFE**  
+> 🔗 [mcpelife.com/download](https://mcpelife.com/download/)
 
-* [MCPELIFE](https://mcpelife.com/download/)
-* [MCPEDL](https://mcpedl.org/downloading/)
+> 🔵 **MCPEDL**  
+> 🔗 [mcpedl.org/downloading](https://mcpedl.org/downloading/)
