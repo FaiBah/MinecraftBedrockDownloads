@@ -6,45 +6,45 @@
 
 ## 🟢 Release
 
-### `26.52`
+### `26.60`
 
 > 📦 **Xbox+servers, no music**  
-> **Size:** `352.88 MB (370,026,442 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v8a.apk)
+> **Size:** `361.27 MB (378,816,625 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/27-10-2026/minecraft-26-60.apk)
 
 > 📦 **Xbox+servers, +music**  
-> **Size:** `670.25 MB (702,810,800 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v8a-music.apk)
+> **Size:** `678.64 MB (711,600,983 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/27-10-2026/minecraft-26-60-music.apk)
 
-> 📦 **armeabi-v7a. Xbox+servers, no music**  
-> **Size:** `352.88 MB (370,026,442 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v7a.apk)
+> 📦 **armv7a. Xbox+servers, no music**  
+> **Size:** `361.27 MB (378,816,625 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/27-10-2026/minecraft-26-60-armeabi-v7a.apk)
 
-> 📦 **armeabi-v7a. Xbox+servers, +music**  
-> **Size:** `670.25 MB (702,810,800 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-09-2026/minecraft-26-52-arm64-v7a-music.apk)
+> 📦 **armv7a. Xbox+servers, +music**  
+> **Size:** `678.64 MB (711,600,983 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/27-10-2026/minecraft-26-60-armeabi-v7a-music.apk)
 
 ---
 
 ## 🔵 Beta
 
-### `26.70.21`
+### `26.70.22`
 
 > 📦 **Xbox+servers, no music**  
-> **Size:** `785.14 MB (823,276,635 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21.apk)
+> **Size:** `389.54 MB (408,465,919 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-10-2026/minecraft-26-70-22.apk)
 
 > 📦 **Xbox+servers, +music**  
-> **Size:** `1.09 GB (1,168,126,077 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-music.apk)
+> **Size:** `706.91 MB (741,246,181 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-10-2026/minecraft-26-70-22-music.apk)
 
 > 📦 **armv7a. Xbox+servers, no music**  
-> **Size:** `385.53 MB (404,254,050 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-armeabi-v7a.apk)
+> **Size:** `389.54 MB (408,465,919 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-10-2026/minecraft-26-70-22-armeabi-v7a.apk)
 
 > 📦 **armv7a. Xbox+servers, +music**  
-> **Size:** `702.89 MB (737,038,408 bytes)`  
-> [⬇️ Download](https://file.mcpedl.org/uploads_files/20-10-2026/minecraft-26-70-21-armeabi-v7a-music.apk)
+> **Size:** `706.91 MB (741,246,181 bytes)`  
+> [⬇️ Download](https://file.mcpedl.org/uploads_files/28-10-2026/minecraft-26-70-22-armeabi-v7a-music.apk)
 
 ---
 
