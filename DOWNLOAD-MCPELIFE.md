@@ -44,6 +44,10 @@
 > **Size:** `1.02 GB (1,090,130,735 bytes)`  
 > [⬇️ Download](https://dl.mcpelife.com/minecraft-pe/1-26-60-4/minecraft-1.26.60.4-x86_64.apk)
 
+> 📦 **Original (IPA) for iOS/iPhone/iPad**  
+> **Size:** `674.80 MB (707,574,987 bytes)`  
+> [⬇️ Download](https://dl.mcpelife.com/minecraft-pe/1-26-52-3/Minecraft-1.26.60-for-iOS-mcpelife.ipa)
+
 ---
 
 ## 🔵 Beta
