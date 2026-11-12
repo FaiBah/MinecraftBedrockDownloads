@@ -48,43 +48,43 @@
 
 ## 🔵 Beta
 
-### `26.70.23`
+### `26.70.24`
 
 > 📦 **Arm64-v8a**  
-> **Size:** `1.00 GB (1,074,126,604 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-arm64-v8a.apk)
+> **Size:** `1011.34 MB (1,060,462,698 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-arm64-v8a.apk)
 
 > 📦 **Arm64-v8a - Without music**  
-> **Size:** `693.91 MB (727,618,157 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-arm64-v8a-compressed.apk)
+> **Size:** `680.88 MB (713,954,251 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-arm64-v8a-compressed.apk)
 
 > 📦 **Clone for Arm64-v8a**  
-> **Size:** `1.00 GB (1,074,118,412 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-arm64-v8a-clone.apk)
+> **Size:** `1011.33 MB (1,060,458,602 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-arm64-v8a-clone.apk)
 
 > 📦 **Clone for Arm64-v8 - Without music**  
-> **Size:** `693.90 MB (727,609,965 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-arm64-v8a-clone-compressed.apk)
+> **Size:** `680.88 MB (713,950,155 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-arm64-v8a-clone-compressed.apk)
 
 > 📦 **Armeabi-v7a**  
-> **Size:** `1015.23 MB (1,064,550,096 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-armeabi-v7a.apk)
+> **Size:** `1002.07 MB (1,050,742,830 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-armeabi-v7a.apk)
 
 > 📦 **Armeabi-v7a - Without music**  
-> **Size:** `684.78 MB (718,041,649 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-armeabi-v7a-compressed.apk)
+> **Size:** `671.61 MB (704,234,383 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-armeabi-v7a-compressed.apk)
 
 > 📦 **Clone for Armeabi-v7a**  
-> **Size:** `1015.23 MB (1,064,541,904 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-armeabi-v7a-clone.apk)
+> **Size:** `1002.06 MB (1,050,734,638 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-armeabi-v7a-clone.apk)
 
 > 📦 **Clone for Armeabi-v7a - Without music**  
-> **Size:** `684.77 MB (718,033,457 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-armeabi-v7a-clone-compressed.apk)
+> **Size:** `671.60 MB (704,226,191 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-armeabi-v7a-clone-compressed.apk)
 
 > 📦 **x86_64**  
-> **Size:** `1.03 GB (1,104,248,395 bytes)`  
-> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-23/minecraft-1.26.70.23-x86_64.apk)
+> **Size:** `1.02 GB (1,090,662,313 bytes)`  
+> [⬇️ Download](https://dl.minecraftandroid.net/minecraft-pe/1-26-70-24/minecraft-1.26.70.24-x86_64.apk)
 
 ---
 
