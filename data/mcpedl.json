@@ -48,7 +48,7 @@
         "url": "https://file.mcpedl.org/uploads_files/10-11-2026/minecraft-26-70-24-music.apk",
         "size": 722442135,
         "status": "ok",
-        "http_status": 200
+        "http_status": 206
       },
       {
         "name": "armv7a. Xbox+servers, no music",
@@ -62,7 +62,7 @@
         "url": "https://file.mcpedl.org/uploads_files/10-11-2026/minecraft-26-70-24-armeabi-v7a-music.apk",
         "size": 722442135,
         "status": "ok",
-        "http_status": 206
+        "http_status": 200
       }
     ]
   }
